@@ -15,6 +15,9 @@ The entire macropad is held together with four M3 screws. The PCB itself is goin
 It has two separate pieces that will be 3d printed.
 
 <img width="526" height="435" alt="image" src="https://github.com/user-attachments/assets/8a827669-ca85-42c2-9bb9-e195dfe7d782" />
+<img width="823" height="707" alt="image" src="https://github.com/user-attachments/assets/ad1f92e0-f181-4bfd-afe8-38668d1dfb6f" />
+<img width="910" height="709" alt="image" src="https://github.com/user-attachments/assets/2dab8d72-6d88-43b6-93c8-cc51f39d84a5" />
+
 Made in OnShape
 
 
