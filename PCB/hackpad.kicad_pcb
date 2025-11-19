@@ -366,15 +366,15 @@
 			(uuid "0e600114-b01e-41c0-bfd1-0a5a8723aa54")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "C:/Users/SuperDuperAnimeFan/Documents/SinHackpad/PCB/3dModels/LED_SK6812MINI-E.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 5 -1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -651,15 +651,15 @@
 			(uuid "502f053e-f5dd-4ad0-bd73-2ee99f2fd133")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/3dModels/asm_mx_asm_PCB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.25 -4.75 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -90)
 			)
 		)
 	)
@@ -936,15 +936,15 @@
 			(uuid "aa9e8785-1686-4327-aa54-5c333973dfb0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/3dModels/asm_mx_asm_PCB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.25 -4.75 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -90)
 			)
 		)
 	)
@@ -1218,15 +1218,15 @@
 			(uuid "71d0ace3-2f3a-48ff-8b59-68fc183e5e62")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "C:/Users/SuperDuperAnimeFan/Documents/SinHackpad/PCB/3dModels/LED_SK6812MINI-E.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 5 -1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -1503,15 +1503,15 @@
 			(uuid "776d936f-d291-45df-9661-f2338f1a88e0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/3dModels/asm_mx_asm_PCB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.25 -4.75 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -90)
 			)
 		)
 	)
@@ -1785,15 +1785,15 @@
 			(uuid "a52f7238-5eb3-4ff1-9e3f-7eaabd4ab74c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "C:/Users/SuperDuperAnimeFan/Documents/SinHackpad/PCB/3dModels/LED_SK6812MINI-E.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 5 -1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -2070,15 +2070,15 @@
 			(uuid "ceb6d751-35c4-4a2a-9ea0-913a39ab4168")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "${KIPRJMOD}/3dModels/asm_mx_asm_PCB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.25 -4.75 5.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -90)
 			)
 		)
 	)
@@ -2650,63 +2650,15 @@
 			(uuid "c595eca7-4d9f-42f4-842f-4073b2151be9")
 		)
 		(embedded_fonts no)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-			(hide yes)
+		(model "${KIPRJMOD}/3dModels/Seeed Studio XIAO RP2040.step"
 			(offset
-				(xyz -1.778 -6.096 0.381)
+				(xyz 0 -0.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 90)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
-			(hide yes)
-			(offset
-				(xyz -1.7018 -6.096 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.1722 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
+				(xyz -0 -0 -90)
 			)
 		)
 	)
@@ -2980,15 +2932,15 @@
 			(uuid "1b667bbd-b37e-4e2e-b22b-d593943b0b0a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "C:/Users/SuperDuperAnimeFan/Documents/SinHackpad/PCB/3dModels/LED_SK6812MINI-E.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 5 -1)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -180 -0)
 			)
 		)
 	)
@@ -3027,6 +2979,234 @@
 				(bold yes)
 			)
 			(justify left bottom)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "0229ab5b-ae20-4db8-bffc-a2ccae84e469")
+		(pts
+			(xy 109.330614 70.442614) (xy 76.2 71.13875)
+		)
+		(height -13.292614)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "33.1306"
+			(at 92.765307 55.35 0)
+			(layer "F.Cu")
+			(uuid "0229ab5b-ae20-4db8-bffc-a2ccae84e469")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "20596db1-206f-4c34-8bfb-6235613b27ff")
+		(pts
+			(xy 118.32775 69.98775) (xy 152.4 69.05625)
+		)
+		(height -12.83775)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "34.0722"
+			(at 135.363875 55.35 0)
+			(layer "F.Cu")
+			(uuid "20596db1-206f-4c34-8bfb-6235613b27ff")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "6daf7ab3-a62b-409d-a3df-27ec5ed65a8a")
+		(pts
+			(xy 109.330614 70.442614) (xy 118.32775 70.44275)
+		)
+		(height -8.530114)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "8.9971"
+			(at 113.829182 60.1125 0)
+			(layer "F.Cu")
+			(uuid "6daf7ab3-a62b-409d-a3df-27ec5ed65a8a")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "97d8d934-f5fd-4dd7-84e1-82c4fe5cbe41")
+		(pts
+			(xy 152.4 116.68125) (xy 152.4 70.9375)
+		)
+		(height 11.90625)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "45.7437"
+			(at 162.50625 93.809375 90)
+			(layer "F.Cu")
+			(uuid "97d8d934-f5fd-4dd7-84e1-82c4fe5cbe41")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "a6609132-98e1-4d55-a67c-9f9b391354a6")
+		(pts
+			(xy 152.4 111.91875) (xy 152.4 116.68125)
+		)
+		(height 19.05)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "4.7625"
+			(at 169.65 114.3 90)
+			(layer "F.Cu")
+			(uuid "a6609132-98e1-4d55-a67c-9f9b391354a6")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "abd4ecb0-63b8-47cf-ae2c-499c2309b554")
+		(pts
+			(xy 76.2 116.68125) (xy 152.4 116.68125)
+		)
+		(height 7.14375)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "76.2"
+			(at 114.3 122.025 0)
+			(layer "F.Cu")
+			(uuid "abd4ecb0-63b8-47cf-ae2c-499c2309b554")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
 		)
 	)
 	(segment
