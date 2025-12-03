@@ -3,10 +3,14 @@
 This is my first blueprint project with a modest change on top of the instructions provided
 I added a Neopixel_txt LED controller that can connect to additional LEDs or an LED strip for some fancy lighting. I also tried to hook up a buzzer but gave up in the interest of time
 
-The 4 keys will function as
+The 4 keys will function as:
+
 key1: gives a help message on what keys2,3,4 do
+
 key2: performs <ALT><tab> with delay b/w switching
+
 key2: performs <CTL><tab> with delay b/w switching
+
 key2: performs <WIN><tab> with delay b/w switching
 
 LEDs will function as below (firmware yet to be implemented.. so, expect some surprises!) 
