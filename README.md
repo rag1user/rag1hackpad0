@@ -9,9 +9,12 @@ key2: performs <ALT><tab> with delay b/w switching
 key2: performs <CTL><tab> with delay b/w switching
 key2: performs <WIN><tab> with delay b/w switching
 
-LEDs will function as below (firmware yet to be implemented.. so, expect some surprises!)
+LEDs will function as below (firmware yet to be implemented.. so, expect some surprises!) 
+
 LED1: Lights up when board is ready for use (keeps blinking or turned off on error)
+
 LED2: Blinks whenever a key is pressed
+
 LED3 and above: Fancy lighting (patterns based on last key pressed) 
 
 <img width="842" height="982" alt="rag1 macropad pcb image" src="https://github.com/user-attachments/assets/0668af9b-d83b-4c2c-a2a6-3cf5fa8e48ae" />
