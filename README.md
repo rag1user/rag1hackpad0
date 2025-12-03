@@ -9,9 +9,9 @@ key1: gives a help message on what keys2,3,4 do
 
 key2: performs \<ALT\>\<tab\> with delay b/w switching
 
-key2: performs <CTL><tab> with delay b/w switching
+key2: performs \<CTL\>\<tab\> with delay b/w switching
 
-key2: performs <WIN><tab> with delay b/w switching
+key2: performs \<WIN\>\<tab\> with delay b/w switching
 
 LEDs will function as below (firmware yet to be implemented.. so, expect some surprises!) 
 
