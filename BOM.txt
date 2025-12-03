@@ -1,0 +1,10 @@
+1 x XIAO RP2040-DIP
+2 x SK6812 Mini (Smart LED controller + LED)
+1 x Neopixel_THT (Smart LED controller + LED Strip)
+4x Cherry_MX switches
+4x PBT Keycaps
+4x M3 6mm Screws
+4x M3 6mm Nuts
+1x Case (2 3D printed parts)
+solder + lead 
+
