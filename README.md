@@ -26,3 +26,4 @@ Here is the schematic. I played around a bit with placement to help routing easi
 <img width="1406" height="787" alt="macropad pcb - empty" src="https://github.com/user-attachments/assets/e6d528e6-6513-4f59-a913-f287180f5b4d" />
 <img width="1537" height="695" alt="macropad lid" src="https://github.com/user-attachments/assets/5feaca9d-6b1f-48dd-a970-d4f1c5545bdc" />
 <img width="878" height="831" alt="macropad with pcb" src="https://github.com/user-attachments/assets/a0d7f55c-518c-4111-ad1b-6eead0bf25a9" />
+<img width="621" height="478" alt="image" src="https://github.com/user-attachments/assets/9c44d321-632b-455f-8fee-3c5559d41945" />
