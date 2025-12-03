@@ -7,3 +7,8 @@ I added a Neopixel_txt LED controller that can connect to additional LEDs or an 
 
 Here is the schematic. I played around a bit with placement to help routing easier, although kicad didnt make good use of it!! 
 [myproj1 schematic drawing.pdf](https://github.com/user-attachments/files/23893459/myproj1.schematic.drawing.pdf)
+
+
+<img width="1406" height="787" alt="macropad pcb - empty" src="https://github.com/user-attachments/assets/e6d528e6-6513-4f59-a913-f287180f5b4d" />
+<img width="1537" height="695" alt="macropad lid" src="https://github.com/user-attachments/assets/5feaca9d-6b1f-48dd-a970-d4f1c5545bdc" />
+<img width="878" height="831" alt="macropad with pcb" src="https://github.com/user-attachments/assets/a0d7f55c-518c-4111-ad1b-6eead0bf25a9" />
