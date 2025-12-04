@@ -16,7 +16,7 @@ key2: performs \<CTL\>\<tab\> with delay b/w switching
 
 key2: performs \<WIN\>\<tab\> with delay b/w switching
 
-Rotary key will be used for scrolling, volume controll and screen brigntness control functions (activated by  keys2-4)
+Rotary key will be used for scrolling, volume controll and screen brigntness control functions (activated by  keys2-4) (Firmware for this is pending update)
 
 LED1: Lights up when board is ready for use (keeps blinking or turned off on error)
 
