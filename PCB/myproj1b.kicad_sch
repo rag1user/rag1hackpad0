@@ -3139,7 +3139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_SH-7010A"
+		(property "Footprint" ""
 			(at 110.49 64.77 0)
 			(effects
 				(font

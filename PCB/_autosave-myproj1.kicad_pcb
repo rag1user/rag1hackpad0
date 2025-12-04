@@ -103,7 +103,7 @@
 		(property "Reference" "SW4"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "0ced3d5e-e814-42e0-8386-cfc1bdda7272")
+			(uuid "2e24ce29-6961-453e-9089-2716c3fddb77")
 			(effects
 				(font
 					(size 1 1)
@@ -114,7 +114,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "fb3eb1e0-5677-40cf-b1c7-063bb0b4eaf1")
+			(uuid "63ca67e3-2a51-4c99-a258-87955a383ae3")
 			(effects
 				(font
 					(size 1 1)
@@ -127,7 +127,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "047c4f26-1224-4f49-857f-5cc6fa85f152")
+			(uuid "7b5ed545-4b7c-4133-93b2-8d211dfb6925")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,7 +140,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "822b72da-2ea0-43d0-8f00-64d00c707d50")
+			(uuid "2775dd36-041c-45bb-b4c8-dc1905684933")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -669,7 +669,7 @@
 			(at -8.5 -12 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "e9be38f2-d102-498e-80ad-cb998fbf8705")
+			(uuid "10f95b1f-25f2-4cd4-8715-970d119cbd27")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -681,7 +681,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "5bee4d81-5f63-4bbd-845b-2c707b848304")
+			(uuid "c8fefa48-860f-4650-a936-71dba0faa7af")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -694,7 +694,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fb8f1167-abfb-451a-bdb0-f3e9ea9fe52d")
+			(uuid "5ac40943-cdaa-4636-aa80-bdaddf6b9ece")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -707,7 +707,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0f74042e-2065-460f-be41-ae035cc69412")
+			(uuid "d8d11dc2-f6cf-484e-9784-6b943f001c7a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1654,13 +1654,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "5b267581-8297-49e8-94b3-cc5adadfcf4e")
-		(at 156.95 96.26)
+		(at 156.89 96.37)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "f40ad4c5-2482-42fe-b416-e0020a442bba")
+			(uuid "8316db91-ba6a-49f2-801e-98b8d2e43178")
 			(effects
 				(font
 					(size 1 1)
@@ -1671,7 +1671,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "dd6d5d70-81b2-4266-ae96-6b78440b7625")
+			(uuid "8020690a-3bda-4224-91db-ad225d069fb2")
 			(effects
 				(font
 					(size 1 1)
@@ -1684,7 +1684,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "577f9cbd-2adc-4a20-9fe2-e83a71aa5617")
+			(uuid "989650cf-c7e3-49b8-bd1f-52ee2d8eeea8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1697,7 +1697,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2dc6e7a8-f9f8-4a57-b650-6e4a4e927edd")
+			(uuid "7a964234-cb30-40a7-b10f-c5863a5dfd64")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1939,13 +1939,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "8265508f-b6ed-456f-a214-6aff27150b19")
-		(at 176.02 96.26)
+		(at 175.99 96.37)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "b36eb476-fad7-45e5-9cc7-dbc48097e2ad")
+			(uuid "29fe3426-e812-45f6-9dd3-efe9ec94fac0")
 			(effects
 				(font
 					(size 1 1)
@@ -1956,7 +1956,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "f98e3541-c3e9-4ce8-8678-605e5afa64db")
+			(uuid "b8069ab9-ffdd-4acf-8fc6-fbe0ac5e4126")
 			(effects
 				(font
 					(size 1 1)
@@ -1969,7 +1969,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a547f47-d148-487d-9756-40267e801b58")
+			(uuid "e06c0525-a758-4223-a0d1-a02e1f07246c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +1982,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06298182-4027-4512-bd1d-32d8c0e063b5")
+			(uuid "a98984e8-4b0a-4adb-b5bc-964fb4ad4f15")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,13 +2851,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "bf69a02c-1a2c-43b4-8126-dd4c972df938")
-		(at 156.95 115.36)
+		(at 156.94 115.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW3"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "8cd6e926-a65c-4d50-b909-8b493ff6c5b4")
+			(uuid "3dce3966-1f02-4493-9ca8-4bec2d5dfbea")
 			(effects
 				(font
 					(size 1 1)
@@ -2868,7 +2868,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "1be1f985-848d-4b67-9940-a61cd173a586")
+			(uuid "9c02660e-27dc-4640-88ba-3241f7ac5a85")
 			(effects
 				(font
 					(size 1 1)
@@ -2881,7 +2881,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "062b1b33-d93e-452f-93de-eaf2b2f73f10")
+			(uuid "2999e80c-1b5e-4b89-8821-93f0976e5f5d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2894,7 +2894,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cbc4bec9-ca5e-448d-ab92-9c5399ddd3f4")
+			(uuid "792fbd14-9a9d-4fc9-8a61-57a8c93e8489")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3134,15 +3134,15 @@
 		)
 	)
 	(gr_rect
-		(start 137.2 70)
-		(end 190.5 135.7)
+		(start 136.3 70)
+		(end 192.75 137.95)
 		(stroke
-			(width 0.2)
+			(width 0.05)
 			(type default)
 		)
 		(fill no)
-		(layer "F.Cu")
-		(uuid "0c35161e-9f3f-41da-9775-bc14754a1c0e")
+		(layer "Edge.Cuts")
+		(uuid "62888c36-aa66-470d-8cb6-c16c37cad8a7")
 	)
 	(gr_text "Xiao here"
 		(at 176.4 72.9 0)
@@ -3224,6 +3224,14 @@
 		(uuid "6cdc8da3-f54a-4e13-a92f-be99b671c0a7")
 	)
 	(segment
+		(start 143.7 80.6)
+		(end 143.65 80.6)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "7db85752-02ce-478b-8ec7-c6b931eabea2")
+	)
+	(segment
 		(start 141.925 81.725)
 		(end 141.925 81.175)
 		(width 0.2)
@@ -3256,6 +3264,14 @@
 		(uuid "a43a61e8-c360-4b29-ac16-76dda5362bd7")
 	)
 	(segment
+		(start 144 80.3)
+		(end 143.7 80.6)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 1)
+		(uuid "a7d5ad1c-94e7-4eea-ad25-26473c55e4b9")
+	)
+	(segment
 		(start 141.925 81.175)
 		(end 142.1 81)
 		(width 0.2)
@@ -3270,14 +3286,6 @@
 		(layer "F.Cu")
 		(net 1)
 		(uuid "c45877eb-2892-4537-8d9a-b13482de07f8")
-	)
-	(segment
-		(start 144 80.3)
-		(end 143.7 80.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 1)
-		(uuid "e526e2ee-c927-4958-88c5-3fd4ad9dff4c")
 	)
 	(segment
 		(start 142.1 81)
@@ -3295,21 +3303,29 @@
 		(net 1)
 		(uuid "032ed95a-38fd-46a3-a4c6-a8c713c2ee01")
 	)
-	(segment
-		(start 142.349 81)
-		(end 143.3 81)
-		(width 0.2)
-		(layer "B.Cu")
+	(via
+		(at 143.65 80.6)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
 		(net 1)
-		(uuid "1d1c10b7-a226-442b-a2f2-daab494219dd")
+		(uuid "227c773e-193e-4d3d-8361-10487fb7c502")
 	)
 	(segment
-		(start 143.3 81)
-		(end 143.7 80.6)
+		(start 143.25 81)
+		(end 143.65 80.6)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 1)
-		(uuid "5869be19-03c2-4629-93a2-b522087ae086")
+		(uuid "46820a03-1e76-47f5-8ac4-7c1442a03608")
+	)
+	(segment
+		(start 142.349 81)
+		(end 143.25 81)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "cd498aa4-35d6-4763-b215-bfcf6eaeda0d")
 	)
 	(segment
 		(start 147.275 86.55)
