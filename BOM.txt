@@ -1,6 +1,7 @@
 1 x XIAO RP2040-DIP
 2 x SK6812 Mini (Smart LED controller + LED)
-1 x Neopixel_THT (Smart LED controller + LED Strip)
+1 x SH-7010TA (DigiKey Nidec)
+1 x Sensirion's SHT1x
 4x Cherry_MX switches
 4x PBT Keycaps
 4x M3 6mm Screws
